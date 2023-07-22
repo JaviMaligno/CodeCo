@@ -1,3 +1,5 @@
+# Challenge description
+
 The countdown refreshes before your eyes. The algorithm that controls the device before you shrinks its output once more. No one knows what will happen when it returns zero.
 
 To diffuse the device, you must take the outputs provided by the algorithm and rearrange them as a RATS sequence
