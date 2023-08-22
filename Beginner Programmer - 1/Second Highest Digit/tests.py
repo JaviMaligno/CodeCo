@@ -12,5 +12,9 @@ class SolutionTests(unittest.TestCase):
         result = Solution()
         self.assertEqual(result.second_highest_digit("123123"), 3)
 
+    def test3(self):
+        result = Solution()
+        self.assertEqual(result.second_highest_digit("1"), -1)
+
 if __name__ == '__main__':
     unittest.main()
