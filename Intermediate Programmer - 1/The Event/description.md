@@ -21,4 +21,4 @@ result = 54310 - 10345 = 43965
 
 Typically, the lists will contain a maximum of 10 integers and no result will be larger than the maximum size of an integer. There's a catch though: All integers must be used from the list and numbers must not have leading zeroes.
 
-That’s it. That is all we know. Good luck, and see you on the outside, survivor.
+That's it. That is all we know. Good luck, and see you on the outside, survivor.
